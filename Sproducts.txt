@@ -1,0 +1,9 @@
+bmw
+car
+100
+air
+shoes
+150
+toyota
+car
+300
